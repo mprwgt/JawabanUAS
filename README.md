@@ -1,5 +1,7 @@
 Nama: Gita Mustika Pratiwi
+
 Nim: 312110303
+
 Kelas: TI.21.C5
 
 Berikut adalah data file yang sudah saya buat untuk menjawab soal UAS dari dosen saya
